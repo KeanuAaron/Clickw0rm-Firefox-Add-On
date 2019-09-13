@@ -19,10 +19,10 @@ on to the next page following the link. Clickw0rm prevents the links from workin
 For now Clickw0rm embeds the links on the very bottom of the page using `document.createElement()` so that we could scrape that
 data easier.
 
-~# isn't there an easier way to get those links????
-YES, there probably is! I'm currently working on storing the links on the extension itself for download. And if I'm not
-capable of storing it on the extension, I will have clickw0rm embed a download button to download a text file of all links
-requested. I WILL FIND A SIMPLER WAY TO GET A HOLD OF SAID LINKS! ~
+~ # isn't there an easier way to get those links???? ~
+~ YES, there probably is! I'm currently working on storing the links on the extension itself for download. And if I'm not ~ 
+~ capable of storing it on the extension, I will have clickw0rm embed a download button to download a text file of all links ~ 
+~ requested. I WILL FIND A SIMPLER WAY TO GET A HOLD OF SAID LINKS! ~
 
 ~But for now,~ feel free to expand its capabilities or even use and test for yourself! I look forward to hearing from you!
 

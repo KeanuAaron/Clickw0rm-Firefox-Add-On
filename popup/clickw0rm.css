@@ -1,0 +1,18 @@
+html, body {
+  width: 100px;
+}
+.hidden {
+  display: none;
+}
+.button {
+  margin: 3% auto;
+  padding: 4px;
+  text-align: center;
+  font-size: 1em;
+  cursor: pointer;
+  border:1px solid black;
+}
+.clickw0rm:hover { background-color: #CFF2F2; }
+.clickw0rm { background-color: #E5F2F2 }
+.clickw0rm-stop:hover { background-color: #CFF2F2; }
+.clickw0rm-stop { background-color: #E5F2F2 }

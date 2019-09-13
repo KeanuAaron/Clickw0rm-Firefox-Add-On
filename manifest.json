@@ -1,0 +1,20 @@
+{
+  "manifest_version": 2,
+  "name": "Clickw0rm",
+  "version": "1.0",
+
+  "description": "Clickw0rm acts as a tapeworm for css class elements in a web page. This is perfect if you're trying to gather a list of elements within a website that share the same class, but don't want to go through the hassel of creating an automation script and filtering useless results afterwards. Let Clickw0rm help you!",
+  "icons": {
+    "48": "icons/clickw0rm48x48.png"
+  },
+
+  "permissions": [
+    "activeTab"
+  ],
+
+  "browser_action": {
+    "default_icon": "icons/clickw0rm48x48.png",
+    "default_title": "Clickw0rm",
+    "default_popup": "popup/clickw0rm.html"
+  }
+}

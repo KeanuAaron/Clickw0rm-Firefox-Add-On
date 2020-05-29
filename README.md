@@ -1,5 +1,5 @@
 # Clickw0rm
-A click intercepter.
+A click intercepter to retrieve links from a website for harvesting.
 
 # a wut???
 So, I created this add-on mostly for myself, though it could be use for other peoples uses.

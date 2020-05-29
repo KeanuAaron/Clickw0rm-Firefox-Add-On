@@ -1,4 +1,4 @@
-# Clickw0rm
+# Clickw0rm [Deprecated]
 A click intercepter to retrieve links from a website for harvesting.
 
 # a wut???
